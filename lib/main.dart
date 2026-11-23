@@ -14,7 +14,7 @@ import 'package:oyun_restoran_isletme/oyun_restoran_isletme.dart';
 import 'package:oyun_sanal_evcil_hayvan/oyun_sanal_evcil_hayvan.dart';
 import 'package:oyun_yemek_yapma/oyun_yemek_yapma.dart';
 import 'package:oyun_zen_bahcesi_bonsai/oyun_zen_bahcesi_bonsai.dart';
-import 'package:studio_core/app/hub.dart';
+import 'approved_hub.dart';
 
 /// Boşta ve Simülasyon: sakin boşta atölyeleri, doğa, kasaba ve mutfak
 /// simülasyonlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
