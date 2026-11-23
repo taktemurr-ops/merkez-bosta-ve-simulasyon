@@ -18,63 +18,63 @@ dependencies:
   oyun_bosta_tiklayici:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-tiklayici
-      ref: main
+      ref: 65832a0d24abb96ed768404b72fb6245d525f190
   oyun_birlestir_gelistir:
     git:
       url: https://github.com/taktemurr-ops/oyun-birlestir-gelistir
-      ref: main
+      ref: d989dbba30305e0f5dde1d436ec61fc34bbf2d2b
   oyun_bosta_madencilik:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-madencilik
-      ref: main
+      ref: d85af827095a9a81d138e10d24925618d99e9a6a
   oyun_bosta_fabrika:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-fabrika
-      ref: main
+      ref: 492889b52ede612dffe256a9688ff04c93313a91
   oyun_ciftlik:
     git:
       url: https://github.com/taktemurr-ops/oyun-ciftlik
-      ref: main
+      ref: 2caf9894f4dfbb6b6a881d9800f92113916e1064
   oyun_akvaryum_dekorasyonu:
     git:
       url: https://github.com/taktemurr-ops/oyun-akvaryum-dekorasyonu
-      ref: main
+      ref: 12deeeb7e84b471e87db005cc738eb4fcd69206e
   oyun_zen_bahcesi_bonsai:
     git:
       url: https://github.com/taktemurr-ops/oyun-zen-bahcesi-bonsai
-      ref: main
+      ref: 6d9241f4efc025dce6f486bbb090fea7df8ac938
   oyun_karinca_kolonisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-karinca-kolonisi
-      ref: main
+      ref: af3ba1d860547ef0f9bc8fe71bc6d8676d77a517
   oyun_ari_kovani:
     git:
       url: https://github.com/taktemurr-ops/oyun-ari-kovani
-      ref: main
+      ref: 8ecbd3bbe47336c749af183f0247d68fd0328d52
   oyun_sanal_evcil_hayvan:
     git:
       url: https://github.com/taktemurr-ops/oyun-sanal-evcil-hayvan
-      ref: main
+      ref: 382ee1d4cd77fbb76e170a0e93548fcbffe31790
   oyun_basit_sehir_kurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-basit-sehir-kurma
-      ref: main
+      ref: 6fe65d836d62ef1e1c431c6383f6b31d1f792072
   oyun_restoran_isletme:
     git:
       url: https://github.com/taktemurr-ops/oyun-restoran-isletme
-      ref: main
+      ref: d79f4d9a1016f2ee2741a0ce06e46e371edbaec1
   oyun_yemek_yapma:
     git:
       url: https://github.com/taktemurr-ops/oyun-yemek-yapma
-      ref: main
+      ref: 57ea912bd4b7d44b39fb1dffa4b8717d30e8dc0c
   oyun_cay_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-cay-bahcesi
-      ref: main
+      ref: 6c207a8a411d0c5271121367152e8be18af96038
   oyun_giydirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-giydirme
-      ref: main
+      ref: 4bc7e5193377710d2fcce3bf007fe3581177b7aa
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -92,7 +92,7 @@ dependency_overrides:
   simulasyon_motoru:
     git:
       url: https://github.com/taktemurr-ops/simulasyon-motoru
-      ref: main
+      ref: ae534580acee4c6d786f15971dc9dd56fcfc2e32
 
 dev_dependencies:
   flutter_test:
