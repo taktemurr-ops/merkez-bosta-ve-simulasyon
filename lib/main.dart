@@ -90,7 +90,7 @@ final hubConfig = HubConfig(
       'Từ đèn lồng đến nông trại, thế giới nhỏ thư thái',
       'Mula parol hanggang bukid: payapang munting mundo',
     ],
-  seedColor: const Color(0xFF5E8B4A),
+  seedColor: const Color(0xFF197DA2),
   icon: Icons.spa,
   games: [
     bostaTiklayiciConfig,
