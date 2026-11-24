@@ -14,7 +14,7 @@ import 'package:oyun_restoran_isletme/oyun_restoran_isletme.dart';
 import 'package:oyun_sanal_evcil_hayvan/oyun_sanal_evcil_hayvan.dart';
 import 'package:oyun_yemek_yapma/oyun_yemek_yapma.dart';
 import 'package:oyun_zen_bahcesi_bonsai/oyun_zen_bahcesi_bonsai.dart';
-import 'approved_hub.dart';
+import 'package:studio_core/app/hub.dart';
 
 /// Boşta ve Simülasyon: sakin boşta atölyeleri, doğa, kasaba ve mutfak
 /// simülasyonlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
@@ -90,7 +90,7 @@ final hubConfig = HubConfig(
       'Từ đèn lồng đến nông trại, thế giới nhỏ thư thái',
       'Mula parol hanggang bukid: payapang munting mundo',
     ],
-  seedColor: const Color(0xFF197DA2),
+  seedColor: const Color(0xFF5E8B4A),
   icon: Icons.spa,
   games: [
     bostaTiklayiciConfig,
