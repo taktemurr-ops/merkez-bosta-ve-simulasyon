@@ -86,11 +86,11 @@ dependencies:
   oyun_bosta_uzay:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-uzay
-      ref: main
+      ref: d93804fe009ae062fbf39c0922ab70304b04ca28
   oyun_hayvanat_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanat-bahcesi
-      ref: main
+      ref: 1ef9df71f32d60347a9be2ee8ff4b473bd6b42bd
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -108,7 +108,7 @@ dependency_overrides:
   simulasyon_motoru:
     git:
       url: https://github.com/taktemurr-ops/simulasyon-motoru
-      ref: 19d04d6e13fb39b15b853f141fadd414c16744e5
+      ref: 89fc661fd5baea06c18c244dad80d5a242e0c2b5
 
 dev_dependencies:
   flutter_test:
