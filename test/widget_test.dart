@@ -20,6 +20,8 @@ void main() {
       'oyun-yemek-yapma',
       'oyun-cay-bahcesi',
       'oyun-giydirme',
+      'oyun-lale-serasi',
+      'oyun-kervansaray-isletmesi',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length);
