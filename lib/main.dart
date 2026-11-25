@@ -10,6 +10,8 @@ import 'package:oyun_cay_bahcesi/oyun_cay_bahcesi.dart';
 import 'package:oyun_ciftlik/oyun_ciftlik.dart';
 import 'package:oyun_giydirme/oyun_giydirme.dart';
 import 'package:oyun_karinca_kolonisi/oyun_karinca_kolonisi.dart';
+import 'package:oyun_kervansaray_isletmesi/oyun_kervansaray_isletmesi.dart';
+import 'package:oyun_lale_serasi/oyun_lale_serasi.dart';
 import 'package:oyun_restoran_isletme/oyun_restoran_isletme.dart';
 import 'package:oyun_sanal_evcil_hayvan/oyun_sanal_evcil_hayvan.dart';
 import 'package:oyun_yemek_yapma/oyun_yemek_yapma.dart';
@@ -111,6 +113,8 @@ final hubConfig = HubConfig(
     yemekYapmaConfig,
     cayBahcesiConfig,
     giydirmeConfig,
+    laleSerasiConfig,
+    kervansarayConfig,
   ],
   starters: ['oyun-bosta-tiklayici', 'oyun-ciftlik', 'oyun-cay-bahcesi'],
   sections: [
@@ -187,7 +191,7 @@ final hubConfig = HubConfig(
           'Thiên nhiên và an yên',
           'Kalikasan at kapayapaan',
         ],
-        ids: ['oyun-ciftlik', 'oyun-akvaryum-dekorasyonu', 'oyun-zen-bahcesi-bonsai', 'oyun-karinca-kolonisi', 'oyun-ari-kovani']),
+        ids: ['oyun-ciftlik', 'oyun-akvaryum-dekorasyonu', 'oyun-zen-bahcesi-bonsai', 'oyun-karinca-kolonisi', 'oyun-ari-kovani', 'oyun-lale-serasi']),
     HubSection(
         title: [
           'Yaşam ve kasaba',
@@ -224,7 +228,7 @@ final hubConfig = HubConfig(
           'Cuộc sống và thị trấn',
           'Buhay at bayan',
         ],
-        ids: ['oyun-sanal-evcil-hayvan', 'oyun-basit-sehir-kurma']),
+        ids: ['oyun-sanal-evcil-hayvan', 'oyun-basit-sehir-kurma', 'oyun-kervansaray-isletmesi']),
     HubSection(
         title: [
           'Mutfak ve stil',

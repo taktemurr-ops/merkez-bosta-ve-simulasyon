@@ -13,68 +13,76 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 25c9e5cb2167cce4b7f65f57a214aacd9b2c1732
+      ref: 03712efb1978a621943ed9b91d98e4fcad629898
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_bosta_tiklayici:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-tiklayici
-      ref: 65832a0d24abb96ed768404b72fb6245d525f190
+      ref: fd91b03f9d8134b151ac39698758fe804c35d1a0
   oyun_birlestir_gelistir:
     git:
       url: https://github.com/taktemurr-ops/oyun-birlestir-gelistir
-      ref: d989dbba30305e0f5dde1d436ec61fc34bbf2d2b
+      ref: d31c2a2a32252d044c80e37b1d82983f170b707b
   oyun_bosta_madencilik:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-madencilik
-      ref: d85af827095a9a81d138e10d24925618d99e9a6a
+      ref: 83d97964cbe77ea58b70697085369af8772d24a7
   oyun_bosta_fabrika:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-fabrika
-      ref: 492889b52ede612dffe256a9688ff04c93313a91
+      ref: a0bf97307dc1bd80a8fbbf66c1b4c1d32314bb39
   oyun_ciftlik:
     git:
       url: https://github.com/taktemurr-ops/oyun-ciftlik
-      ref: 2caf9894f4dfbb6b6a881d9800f92113916e1064
+      ref: b777b08c89549697843215a972a7a328b77f0fe5
   oyun_akvaryum_dekorasyonu:
     git:
       url: https://github.com/taktemurr-ops/oyun-akvaryum-dekorasyonu
-      ref: 12deeeb7e84b471e87db005cc738eb4fcd69206e
+      ref: 647fce2d410c4462c0af3e69c72ad5b14b538c92
   oyun_zen_bahcesi_bonsai:
     git:
       url: https://github.com/taktemurr-ops/oyun-zen-bahcesi-bonsai
-      ref: 6d9241f4efc025dce6f486bbb090fea7df8ac938
+      ref: 1b7d0eb70aaaa0251a993b9559ec56f18367917e
   oyun_karinca_kolonisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-karinca-kolonisi
-      ref: af3ba1d860547ef0f9bc8fe71bc6d8676d77a517
+      ref: 9e48ea29c19619c07eb7aa2a51d56af092913d0a
   oyun_ari_kovani:
     git:
       url: https://github.com/taktemurr-ops/oyun-ari-kovani
-      ref: 8ecbd3bbe47336c749af183f0247d68fd0328d52
+      ref: 77e959527bc8eeffb037b72f014c689e8c87a433
   oyun_sanal_evcil_hayvan:
     git:
       url: https://github.com/taktemurr-ops/oyun-sanal-evcil-hayvan
-      ref: 382ee1d4cd77fbb76e170a0e93548fcbffe31790
+      ref: a641cb44d3967589c4bc9917896734bf60fb3cad
   oyun_basit_sehir_kurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-basit-sehir-kurma
-      ref: 6fe65d836d62ef1e1c431c6383f6b31d1f792072
+      ref: 5e0ebee71ac0cef8f5ea6b30327fa20b773671a1
   oyun_restoran_isletme:
     git:
       url: https://github.com/taktemurr-ops/oyun-restoran-isletme
-      ref: d79f4d9a1016f2ee2741a0ce06e46e371edbaec1
+      ref: 1addef639da8ac0efe85597edf408ee20a889cd3
   oyun_yemek_yapma:
     git:
       url: https://github.com/taktemurr-ops/oyun-yemek-yapma
-      ref: 57ea912bd4b7d44b39fb1dffa4b8717d30e8dc0c
+      ref: 14e88ad1ee1097e231c428c42343d246b36ad217
   oyun_cay_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-cay-bahcesi
-      ref: 6c207a8a411d0c5271121367152e8be18af96038
+      ref: 7cbb3bd66615085487fba9cfea62b7156c7ab0a9
   oyun_giydirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-giydirme
-      ref: 4bc7e5193377710d2fcce3bf007fe3581177b7aa
+      ref: cde63d7d546db41a7970c5b9d9f0fe1c0443f19c
+  oyun_lale_serasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-lale-serasi
+      ref: 0f3451503f07e38d2fd9da1ade113e8e7fdd719e
+  oyun_kervansaray_isletmesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kervansaray-isletmesi
+      ref: a829b41e3152490691b6115a323423d0848fe02f
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -88,11 +96,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 25c9e5cb2167cce4b7f65f57a214aacd9b2c1732
+      ref: 03712efb1978a621943ed9b91d98e4fcad629898
   simulasyon_motoru:
     git:
       url: https://github.com/taktemurr-ops/simulasyon-motoru
-      ref: ae534580acee4c6d786f15971dc9dd56fcfc2e32
+      ref: 19d04d6e13fb39b15b853f141fadd414c16744e5
 
 dev_dependencies:
   flutter_test:
