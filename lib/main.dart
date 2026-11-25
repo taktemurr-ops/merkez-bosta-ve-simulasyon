@@ -6,9 +6,11 @@ import 'package:oyun_birlestir_gelistir/oyun_birlestir_gelistir.dart';
 import 'package:oyun_bosta_fabrika/oyun_bosta_fabrika.dart';
 import 'package:oyun_bosta_madencilik/oyun_bosta_madencilik.dart';
 import 'package:oyun_bosta_tiklayici/oyun_bosta_tiklayici.dart';
+import 'package:oyun_bosta_uzay/oyun_bosta_uzay.dart';
 import 'package:oyun_cay_bahcesi/oyun_cay_bahcesi.dart';
 import 'package:oyun_ciftlik/oyun_ciftlik.dart';
 import 'package:oyun_giydirme/oyun_giydirme.dart';
+import 'package:oyun_hayvanat_bahcesi/oyun_hayvanat_bahcesi.dart';
 import 'package:oyun_karinca_kolonisi/oyun_karinca_kolonisi.dart';
 import 'package:oyun_kervansaray_isletmesi/oyun_kervansaray_isletmesi.dart';
 import 'package:oyun_lale_serasi/oyun_lale_serasi.dart';
@@ -115,6 +117,8 @@ final hubConfig = HubConfig(
     giydirmeConfig,
     laleSerasiConfig,
     kervansarayConfig,
+    bostaUzayConfig,
+    hayvanatBahcesiConfig,
   ],
   starters: ['oyun-bosta-tiklayici', 'oyun-ciftlik', 'oyun-cay-bahcesi'],
   sections: [
@@ -154,7 +158,7 @@ final hubConfig = HubConfig(
           'Xưởng nhàn rỗi',
           'Idle na talyer',
         ],
-        ids: ['oyun-bosta-tiklayici', 'oyun-birlestir-gelistir', 'oyun-bosta-madencilik', 'oyun-bosta-fabrika']),
+        ids: ['oyun-bosta-tiklayici', 'oyun-birlestir-gelistir', 'oyun-bosta-madencilik', 'oyun-bosta-fabrika', 'oyun-bosta-uzay']),
     HubSection(
         title: [
           'Doğa ve huzur',
@@ -191,7 +195,7 @@ final hubConfig = HubConfig(
           'Thiên nhiên và an yên',
           'Kalikasan at kapayapaan',
         ],
-        ids: ['oyun-ciftlik', 'oyun-akvaryum-dekorasyonu', 'oyun-zen-bahcesi-bonsai', 'oyun-karinca-kolonisi', 'oyun-ari-kovani', 'oyun-lale-serasi']),
+        ids: ['oyun-ciftlik', 'oyun-akvaryum-dekorasyonu', 'oyun-zen-bahcesi-bonsai', 'oyun-karinca-kolonisi', 'oyun-ari-kovani', 'oyun-lale-serasi', 'oyun-hayvanat-bahcesi']),
     HubSection(
         title: [
           'Yaşam ve kasaba',

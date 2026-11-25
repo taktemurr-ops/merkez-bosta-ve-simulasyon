@@ -1,8 +1,8 @@
-Idle e Simulação reúne 15 simulações tranquilas: produção idle na oficina de lanternas, na mina de cristal e na fábrica de brinquedos; vasos para juntar; uma fazenda que segue as estações, um aquário dos sonhos, um jardim zen e um formigueiro; uma vila para construir e Pofu, seu amigo nuvem; restaurante, cozinha e estúdio de estilo. As estações mudam, o modo calmo nunca apressa e o modo foto deixa decorar tudo. Cada jogo tem progresso, missões e conquistas próprios.
+Idle e Simulação reúne 19 simulações tranquilas: produção idle na oficina de lanternas, na mina de cristal e na fábrica de brinquedos; vasos para juntar; uma fazenda que segue as estações, um aquário dos sonhos, um jardim zen e um formigueiro; uma vila para construir e Pofu, seu amigo nuvem; restaurante, cozinha e estúdio de estilo. As estações mudam, o modo calmo nunca apressa e o modo foto deixa decorar tudo. Cada jogo tem progresso, missões e conquistas próprios.
 
-• Oficinas idle: Oficina de Lanternas, Ateliê de Cerâmica, Mina de Cristal, Fábrica de Brinquedos
-• Natureza e calma: Fazenda das Estações, Aquário dos Sonhos, Jardim Zen, Formigueiro, Prado das Colmeias
-• Vida e vila: A Casa do Pofu, Vilarejo
+• Oficinas idle: Oficina de Lanternas, Ateliê de Cerâmica, Mina de Cristal, Fábrica de Brinquedos, Mina Espacial
+• Natureza e calma: Fazenda das Estações, Aquário dos Sonhos, Jardim Zen, Formigueiro, Prado das Colmeias, Estufa de Tulipas, Constrói um Zoo
+• Vida e vila: A Casa do Pofu, Vilarejo, Estalagem de Caravanas
 • Cozinha e estilo: Restaurante da Esquina, Passos na Cozinha, Jardim do Chá, Estúdio de Estilo
 
 Destaques

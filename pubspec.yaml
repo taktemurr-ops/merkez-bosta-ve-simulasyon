@@ -83,6 +83,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-kervansaray-isletmesi
       ref: a829b41e3152490691b6115a323423d0848fe02f
+  oyun_bosta_uzay:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bosta-uzay
+      ref: main
+  oyun_hayvanat_bahcesi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hayvanat-bahcesi
+      ref: main
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

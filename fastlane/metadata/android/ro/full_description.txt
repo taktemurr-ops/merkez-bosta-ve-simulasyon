@@ -1,8 +1,8 @@
-Idle și Simulare reunește 15 simulări liniștite: producție idle în atelierul de felinare, mina de cristal și fabrica de jucării; unirea vaselor; o fermă după anotimpuri, un acvariu de vis, o grădină zen și un mușuroi; un oraș de construit și prietenul-nor Pofu; un bistro, o bucătărie și un atelier de stil. Anotimpurile se schimbă, modul calm nu grăbește, iar în modul foto poți decora orice. Fiecare joc are progres, misiuni și realizări proprii.
+Idle și Simulare reunește 19 simulări liniștite: producție idle în atelierul de felinare, mina de cristal și fabrica de jucării; unirea vaselor; o fermă după anotimpuri, un acvariu de vis, o grădină zen și un mușuroi; un oraș de construit și prietenul-nor Pofu; un bistro, o bucătărie și un atelier de stil. Anotimpurile se schimbă, modul calm nu grăbește, iar în modul foto poți decora orice. Fiecare joc are progres, misiuni și realizări proprii.
 
-• Ateliere idle: Atelierul de Felinare, Atelierul de Olărit, Mina de Cristal, Fabrica de Jucării
-• Natură și liniște: Ferma Anotimpurilor, Acvariul de Vis, Grădina Zen, Mușuroiul, Pajiștea cu Stupi
-• Viață și oraș: Casa lui Pofu, Orășelul
+• Ateliere idle: Atelierul de Felinare, Atelierul de Olărit, Mina de Cristal, Fabrica de Jucării, Mina Spațială
+• Natură și liniște: Ferma Anotimpurilor, Acvariul de Vis, Grădina Zen, Mușuroiul, Pajiștea cu Stupi, Sera de Lalele, Construiește un Zoo
+• Viață și oraș: Casa lui Pofu, Orășelul, Hangiul Caravanelor
 • Bucătărie și stil: Bistroul din Colț, Pași în Bucătărie, Grădina de Ceai, Atelier de Stil
 
 Puncte forte

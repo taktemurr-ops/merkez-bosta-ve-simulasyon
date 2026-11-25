@@ -1,8 +1,8 @@
-Idle & Simulasi menghimpunkan 15 simulasi santai dalam satu aplikasi: pengeluaran idle di bengkel tanglung, lombong kristal dan kilang mainan; menggabung tembikar; ladang mengikut musim, akuarium impian, taman zen dan sarang semut; membina pekan dan kawan awan Pofu; kedai, dapur dan studio gaya. Musim bertukar, mod tenang tidak mendesak dan mod foto membolehkan anda menghias segalanya. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+Idle & Simulasi menghimpunkan 19 simulasi santai dalam satu aplikasi: pengeluaran idle di bengkel tanglung, lombong kristal dan kilang mainan; menggabung tembikar; ladang mengikut musim, akuarium impian, taman zen dan sarang semut; membina pekan dan kawan awan Pofu; kedai, dapur dan studio gaya. Musim bertukar, mod tenang tidak mendesak dan mod foto membolehkan anda menghias segalanya. Setiap permainan ada kemajuan, misi dan pencapaian sendiri.
 
-• Bengkel idle: Bengkel Tanglung, Studio Tembikar, Lombong Kristal, Kilang Mainan
-• Alam dan ketenangan: Ladang Musim, Akuarium Impian, Taman Zen, Sarang Semut, Padang Lebah
-• Kehidupan dan pekan: Rumah Pofu, Pekan Kecil
+• Bengkel idle: Bengkel Tanglung, Studio Tembikar, Lombong Kristal, Kilang Mainan, Lombong Angkasa
+• Alam dan ketenangan: Ladang Musim, Akuarium Impian, Taman Zen, Sarang Semut, Padang Lebah, Rumah Hijau Tulip, Bina Zoo
+• Kehidupan dan pekan: Rumah Pofu, Pekan Kecil, Tuan Rumah Karavanserai
 • Dapur dan gaya: Kedai Simpang, Langkah Dapur, Taman Teh, Studio Gaya
 
 Sorotan

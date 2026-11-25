@@ -1,8 +1,8 @@
-Idle & Simulasi menghadirkan 15 simulasi santai dalam satu aplikasi: produksi idle di bengkel lentera, tambang kristal, dan pabrik mainan; menggabungkan gerabah; kebun mengikuti musim, akuarium impian, taman zen, dan sarang semut; membangun kota dan teman awan Pofu; warung, dapur, dan studio gaya. Musim berganti, mode santai tak pernah terburu-buru, dan mode foto memungkinkan menghias apa saja. Tiap game punya kemajuan, misi, dan pencapaian sendiri.
+Idle & Simulasi menghadirkan 19 simulasi santai dalam satu aplikasi: produksi idle di bengkel lentera, tambang kristal, dan pabrik mainan; menggabungkan gerabah; kebun mengikuti musim, akuarium impian, taman zen, dan sarang semut; membangun kota dan teman awan Pofu; warung, dapur, dan studio gaya. Musim berganti, mode santai tak pernah terburu-buru, dan mode foto memungkinkan menghias apa saja. Tiap game punya kemajuan, misi, dan pencapaian sendiri.
 
-• Bengkel idle: Bengkel Lentera, Studio Gerabah, Tambang Kristal, Pabrik Mainan
-• Alam dan ketenangan: Kebun Musim, Akuarium Impian, Taman Zen, Sarang Semut, Padang Lebah
-• Kehidupan dan kota: Rumah Pofu, Kota Mungil
+• Bengkel idle: Bengkel Lentera, Studio Gerabah, Tambang Kristal, Pabrik Mainan, Tambang Angkasa
+• Alam dan ketenangan: Kebun Musim, Akuarium Impian, Taman Zen, Sarang Semut, Padang Lebah, Rumah Kaca Tulip, Bangun Kebun Binatang
+• Kehidupan dan kota: Rumah Pofu, Kota Mungil, Juragan Karavanserai
 • Dapur dan gaya: Warung Sudut, Langkah Dapur, Kebun Teh, Studio Gaya
 
 Sorotan

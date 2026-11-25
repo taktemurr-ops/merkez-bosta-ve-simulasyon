@@ -1,8 +1,8 @@
-Pinagsasama ng Idle at Simulasyon ang 15 payapang simulasyon sa iisang app: idle na produksyon sa talyer ng parol, minahan ng kristal at pabrika ng laruan; pagsasama ng palayok; bukid ayon sa panahon, akwaryum ng pangarap, hardin na zen at pugad ng langgam; pagtatayo ng bayan at ang kaibigang ulap na si Pofu; kainan, kusina at style studio. Nagbabago ang panahon, hindi nagmamadali ang kalmadong mode, at sa photo mode maaari mong dekorasyunan ang lahat. Bawat laro ay may sariling progreso, misyon at tagumpay.
+Pinagsasama ng Idle at Simulasyon ang 19 payapang simulasyon sa iisang app: idle na produksyon sa talyer ng parol, minahan ng kristal at pabrika ng laruan; pagsasama ng palayok; bukid ayon sa panahon, akwaryum ng pangarap, hardin na zen at pugad ng langgam; pagtatayo ng bayan at ang kaibigang ulap na si Pofu; kainan, kusina at style studio. Nagbabago ang panahon, hindi nagmamadali ang kalmadong mode, at sa photo mode maaari mong dekorasyunan ang lahat. Bawat laro ay may sariling progreso, misyon at tagumpay.
 
-• Idle na talyer: Talyer ng Parol, Talyer ng Palayok, Minahan ng Kristal, Pabrika ng Laruan
-• Kalikasan at kapayapaan: Bukid ng mga Panahon, Akwaryum ng Pangarap, Hardin na Zen, Pugad ng Langgam, Parang ng Bubuyog
-• Buhay at bayan: Bahay ni Pofu, Munting Bayan
+• Idle na talyer: Talyer ng Parol, Talyer ng Palayok, Minahan ng Kristal, Pabrika ng Laruan, Minahan sa Kalawakan
+• Kalikasan at kapayapaan: Bukid ng mga Panahon, Akwaryum ng Pangarap, Hardin na Zen, Pugad ng Langgam, Parang ng Bubuyog, Greenhouse ng Tulip, Magtayo ng Zoo
+• Buhay at bayan: Bahay ni Pofu, Munting Bayan, Tagapangasiwa ng Caravanserai
 • Kusina at estilo: Kainan sa Kanto, Hakbang sa Kusina, Hardin ng Tsaa, Style Studio
 
 Mga tampok

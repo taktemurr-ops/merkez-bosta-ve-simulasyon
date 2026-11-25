@@ -1,8 +1,8 @@
-Idle a Simulace spojuje 15 klidných simulací: idle výroba v dílně luceren, křišťálovém dole a továrně na hračky; spojování nádob; farma podle ročních období, vysněné akvárium, zenová zahrada a mraveniště; stavba městečka a obláčkový kamarád Pofu; bistro, kuchyně a stylové studio. Roční období se střídají, klidný režim nespěchá a ve fotorežimu vše ozdobíš. Každá hra má vlastní postup, úkoly a úspěchy.
+Idle a Simulace spojuje 19 klidných simulací: idle výroba v dílně luceren, křišťálovém dole a továrně na hračky; spojování nádob; farma podle ročních období, vysněné akvárium, zenová zahrada a mraveniště; stavba městečka a obláčkový kamarád Pofu; bistro, kuchyně a stylové studio. Roční období se střídají, klidný režim nespěchá a ve fotorežimu vše ozdobíš. Každá hra má vlastní postup, úkoly a úspěchy.
 
-• Idle dílny: Dílna Luceren, Hrnčířská Dílna, Křišťálový Důl, Továrna na Hračky
-• Příroda a klid: Farma Ročních Období, Vysněné Akvárium, Zenová Zahrada, Mraveniště, Včelí Louka
-• Život a městečko: Pofuův Domov, Městečko
+• Idle dílny: Dílna Luceren, Hrnčířská Dílna, Křišťálový Důl, Továrna na Hračky, Vesmírný Důl
+• Příroda a klid: Farma Ročních Období, Vysněné Akvárium, Zenová Zahrada, Mraveniště, Včelí Louka, Tulipánový skleník, Postav Zoo
+• Život a městečko: Pofuův Domov, Městečko, Správce karavanseraje
 • Kuchyně a styl: Bistro na Rohu, Kuchyňské Kroky, Čajová Zahrada, Stylové Studio
 
 Hlavní přednosti

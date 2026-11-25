@@ -1,8 +1,8 @@
-Idle & Simulation vereint 15 ruhige Simulationen in einer App: Idle-Produktion in Laternenwerkstatt, Kristallmine und Spielzeugfabrik; Töpfe verbinden; ein Hof nach Jahreszeiten, ein Traumaquarium, ein Zen-Garten und ein Ameisennest; Stadtbau und dein Wolkenfreund Pofu; Imbiss, Küche und Stilstudio. Die Jahreszeiten wechseln, der Ruhemodus drängt nie, und im Fotomodus schmückst du alles. Jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
+Idle & Simulation vereint 19 ruhige Simulationen in einer App: Idle-Produktion in Laternenwerkstatt, Kristallmine und Spielzeugfabrik; Töpfe verbinden; ein Hof nach Jahreszeiten, ein Traumaquarium, ein Zen-Garten und ein Ameisennest; Stadtbau und dein Wolkenfreund Pofu; Imbiss, Küche und Stilstudio. Die Jahreszeiten wechseln, der Ruhemodus drängt nie, und im Fotomodus schmückst du alles. Jedes Spiel hat eigenen Fortschritt, Aufgaben und Erfolge.
 
-• Idle-Werkstätten: Laternenwerkstatt, Töpferstube, Kristallmine, Spielzeugfabrik
-• Natur und Ruhe: Jahreszeitenhof, Traumaquarium, Zen-Garten, Ameisennest, Bienenwiese
-• Leben und Stadt: Pofus Zuhause, Kleinstadt
+• Idle-Werkstätten: Laternenwerkstatt, Töpferstube, Kristallmine, Spielzeugfabrik, Weltraum-Mine
+• Natur und Ruhe: Jahreszeitenhof, Traumaquarium, Zen-Garten, Ameisennest, Bienenwiese, Tulpengewächshaus, Zoo-Baumeister
+• Leben und Stadt: Pofus Zuhause, Kleinstadt, Karawanserei-Wirt
 • Küche und Stil: Eckimbiss, Küchenschritte, Teegarten, Stilstudio
 
 Highlights

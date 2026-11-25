@@ -1,8 +1,8 @@
-Nhàn Rỗi & Mô Phỏng gom 15 trò mô phỏng thư thái vào một ứng dụng: sản xuất nhàn rỗi ở xưởng đèn lồng, mỏ pha lê và nhà máy đồ chơi; ghép bình gốm; nông trại theo mùa, bể cá mơ ước, vườn thiền và tổ kiến; dựng thị trấn và bạn mây Pofu; quán ăn, nhà bếp và xưởng phong cách. Bốn mùa luân chuyển, chế độ thư thả không hối thúc, chế độ chụp ảnh cho bạn trang trí mọi thứ. Mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
+Nhàn Rỗi & Mô Phỏng gom 19 trò mô phỏng thư thái vào một ứng dụng: sản xuất nhàn rỗi ở xưởng đèn lồng, mỏ pha lê và nhà máy đồ chơi; ghép bình gốm; nông trại theo mùa, bể cá mơ ước, vườn thiền và tổ kiến; dựng thị trấn và bạn mây Pofu; quán ăn, nhà bếp và xưởng phong cách. Bốn mùa luân chuyển, chế độ thư thả không hối thúc, chế độ chụp ảnh cho bạn trang trí mọi thứ. Mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
 
-• Xưởng nhàn rỗi: Xưởng Đèn Lồng, Xưởng Gốm, Mỏ Pha Lê, Nhà Máy Đồ Chơi
-• Thiên nhiên và an yên: Nông Trại Bốn Mùa, Bể Cá Mơ Ước, Vườn Thiền, Tổ Kiến, Đồng Ong
-• Cuộc sống và thị trấn: Nhà của Pofu, Thị Trấn Nhỏ
+• Xưởng nhàn rỗi: Xưởng Đèn Lồng, Xưởng Gốm, Mỏ Pha Lê, Nhà Máy Đồ Chơi, Mỏ Không Gian
+• Thiên nhiên và an yên: Nông Trại Bốn Mùa, Bể Cá Mơ Ước, Vườn Thiền, Tổ Kiến, Đồng Ong, Nhà Kính Tulip, Xây Sở Thú
+• Cuộc sống và thị trấn: Nhà của Pofu, Thị Trấn Nhỏ, Chủ Lữ Quán Đoàn Buôn
 • Bếp và phong cách: Quán Ăn Góc Phố, Từng Bước Nấu Ăn, Vườn Trà, Xưởng Phong Cách
 
 Điểm nổi bật

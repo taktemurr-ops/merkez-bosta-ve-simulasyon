@@ -1,8 +1,8 @@
-Idle & Simulering samlar 15 lugna simuleringar: idle-produktion i lyktverkstaden, kristallgruvan och leksaksfabriken; krukor att slå ihop; en gård efter årstiderna, ett drömakvarium, en zenträdgård och en myrstack; en stad att bygga och molnvännen Pofu; ett kvarterskrog, ett kök och en stilstudio. Årstiderna skiftar, lugnt läge stressar aldrig och i fotoläget pyntar du allt. Varje spel har egna framsteg, uppdrag och prestationer.
+Idle & Simulering samlar 19 lugna simuleringar: idle-produktion i lyktverkstaden, kristallgruvan och leksaksfabriken; krukor att slå ihop; en gård efter årstiderna, ett drömakvarium, en zenträdgård och en myrstack; en stad att bygga och molnvännen Pofu; ett kvarterskrog, ett kök och en stilstudio. Årstiderna skiftar, lugnt läge stressar aldrig och i fotoläget pyntar du allt. Varje spel har egna framsteg, uppdrag och prestationer.
 
-• Idle-verkstäder: Lyktverkstaden, Krukmakeriet, Kristallgruvan, Leksaksfabriken
-• Natur och lugn: Årstidsgården, Drömakvariet, Zenträdgården, Myrstacken, Biängen
-• Liv och stad: Pofus Hem, Lilla Staden
+• Idle-verkstäder: Lyktverkstaden, Krukmakeriet, Kristallgruvan, Leksaksfabriken, Rymdgruvan
+• Natur och lugn: Årstidsgården, Drömakvariet, Zenträdgården, Myrstacken, Biängen, Tulpanväxthuset, Bygg ett Zoo
+• Liv och stad: Pofus Hem, Lilla Staden, Karavanseraj-värden
 • Kök och stil: Kvarterskrogen, Köksstegen, Teträdgården, Stilstudion
 
 Höjdpunkter
