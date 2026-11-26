@@ -1,9 +1,9 @@
-Idle et Simulation réunit 19 simulations paisibles : production idle dans l’atelier de lanternes, la mine de cristal et l’usine de jouets ; fusion de poteries ; une ferme au fil des saisons, un aquarium de rêve, un jardin zen et une fourmilière ; un village à bâtir et Pofu, votre ami nuage ; un bistrot, une cuisine et un atelier de style. Les saisons tournent, le mode calme ne presse jamais et le mode photo permet de tout décorer. Chaque jeu a sa progression, ses missions et ses succès.
+Idle et Simulation réunit 23 simulations paisibles : production idle dans l’atelier de lanternes, la mine de cristal et l’usine de jouets ; fusion de poteries ; une ferme au fil des saisons, un aquarium de rêve, un jardin zen et une fourmilière ; un village à bâtir et Pofu, votre ami nuage ; un bistrot, une cuisine et un atelier de style. Les saisons tournent, le mode calme ne presse jamais et le mode photo permet de tout décorer. Chaque jeu a sa progression, ses missions et ses succès.
 
 • Ateliers idle: Atelier des Lanternes, Atelier de Poterie, Mine de Cristal, Usine de Jouets, Mine Spatiale
 • Nature et sérénité: Ferme des Saisons, Aquarium de Rêve, Jardin Zen, Fourmilière, Le Pré aux Ruches, La Serre aux Tulipes, Construis ton Zoo
-• Vie et village: La Maison de Pofu, Petit Village, L’Hôte du Caravansérail
-• Cuisine et style: Bistrot du Coin, Pas en Cuisine, Jardin de Thé, Atelier de Style
+• Vie et village: La Maison de Pofu, Petit Village, L’Hôte du Caravansérail, L’Épicerie du Coin, La Vie au Village, Relooking Maison
+• Cuisine et style: Bistrot du Coin, Pas en Cuisine, Jardin de Thé, Atelier de Style, Fais Briller !
 
 Points forts
 • 100 000 niveaux par jeu ; un robot joue chaque niveau pour vérifier que l’objectif est atteignable.

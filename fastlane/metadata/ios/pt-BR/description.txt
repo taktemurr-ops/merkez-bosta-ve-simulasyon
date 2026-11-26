@@ -2,8 +2,8 @@ Idle e Simulação reúne 15 simulações tranquilas: produção idle na oficina
 
 • Oficinas idle: Oficina de Lanternas, Ateliê de Cerâmica, Mina de Cristal, Fábrica de Brinquedos
 • Natureza e calma: Fazenda das Estações, Aquário dos Sonhos, Jardim Zen, Formigueiro, Prado das Colmeias
-• Vida e vila: A Casa do Pofu, Vilarejo
-• Cozinha e estilo: Restaurante da Esquina, Passos na Cozinha, Jardim do Chá, Estúdio de Estilo
+• Vida e vila: A Casa do Pofu, Vilarejo, A Mercearia do Bairro, Vida na Vila, Reforma da Casa
+• Cozinha e estilo: Restaurante da Esquina, Passos na Cozinha, Jardim do Chá, Estúdio de Estilo, Deixa Brilhar!
 
 Destaques
 • 100.000 fases por jogo; um bot joga cada fase para confirmar que a meta é alcançável.

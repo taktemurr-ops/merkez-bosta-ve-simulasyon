@@ -1,13 +1,13 @@
 # Boşta ve Simülasyon · Idle & Simulation (merkez-bosta-ve-simulasyon)
 
-Boşta ve Simülasyon ailesinin **merkez uygulaması**: 19 sakin simülasyonu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [simulasyon-motoru](https://github.com/taktemurr-ops/simulasyon-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
+Boşta ve Simülasyon ailesinin **merkez uygulaması**: 23 sakin simülasyonu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [simulasyon-motoru](https://github.com/taktemurr-ops/simulasyon-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
 
 Ortak özellikler: mevsim döngüsü, sakin mod (hedef ve süre baskısı yok), fotoğraf ve süsleme modu, sınırlı çevrimdışı kazanç, kalıcı çarpanlı yeniden kurma, görevler ve oyun başına 100.000 botla doğrulanmış bölüm. Şans çarkı, ganimet kutusu ya da paralı şans mekaniği yoktur.
 
 | Oyun | Depo |
 |---|---|
 | Fener Atölyesi | [oyun-bosta-tiklayici](https://github.com/taktemurr-ops/oyun-bosta-tiklayici) |
-| Çömlek Atölyesi | [oyun-birlestir-gelistir](https://github.com/taktemurr-ops/oyun-birlestir-gelistir) |
+| Çömlek Atölyesi | [oyun-birlestir-gelistir](https://github.com/taktemurr-ops/oyun-birlestir-gelistir) (çapa düğmesiyle **Liman Pazarı** modu: merge-2 + sipariş panosu + hikâye) |
 | Kristal Madeni | [oyun-bosta-madencilik](https://github.com/taktemurr-ops/oyun-bosta-madencilik) |
 | Oyuncak Fabrikası | [oyun-bosta-fabrika](https://github.com/taktemurr-ops/oyun-bosta-fabrika) |
 | Boşta Uzay Madeni | [oyun-bosta-uzay](https://github.com/taktemurr-ops/oyun-bosta-uzay) |
@@ -25,5 +25,9 @@ Ortak özellikler: mevsim döngüsü, sakin mod (hedef ve süre baskısı yok), 
 | Mutfak Sırası | [oyun-yemek-yapma](https://github.com/taktemurr-ops/oyun-yemek-yapma) |
 | Çay Bahçesi | [oyun-cay-bahcesi](https://github.com/taktemurr-ops/oyun-cay-bahcesi) |
 | Stil Atölyesi | [oyun-giydirme](https://github.com/taktemurr-ops/oyun-giydirme) |
+| Mahalle Bakkalı | [oyun-mahalle-bakkali](https://github.com/taktemurr-ops/oyun-mahalle-bakkali) |
+| Kasaba Hayatı | [oyun-kasaba-hayati](https://github.com/taktemurr-ops/oyun-kasaba-hayati) |
+| Ev Yenileme | [oyun-ev-yenileme](https://github.com/taktemurr-ops/oyun-ev-yenileme) |
+| Parlat! | [oyun-parlat](https://github.com/taktemurr-ops/oyun-parlat) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-bosta-ve-simulasyon/releases/download/test/merkez-bosta-ve-simulasyon.apk

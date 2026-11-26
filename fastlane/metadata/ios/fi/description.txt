@@ -2,8 +2,8 @@ Idle & Simulaatio kokoaa 15 rauhallista simulaatiota: idle-tuotantoa lyhtypajass
 
 • Idle-pajat: Lyhtypaja, Savipaja, Kristallikaivos, Lelutehdas
 • Luonto ja rauha: Vuodenaikojen Tila, Unelma-akvaario, Zen-puutarha, Muurahaispesä, Mehiläisniitty
-• Elämä ja kaupunki: Pofun Koti, Pikkukaupunki
-• Keittiö ja tyyli: Kulmaruokala, Keittiön Vaiheet, Teepuutarha, Tyylistudio
+• Elämä ja kaupunki: Pofun Koti, Pikkukaupunki, Kulmakauppa, Kyläelämää, Kodin Kunnostus
+• Keittiö ja tyyli: Kulmaruokala, Keittiön Vaiheet, Teepuutarha, Tyylistudio, Kiillota!
 
 Kohokohdat
 • 100 000 tasoa per peli; botti pelaa jokaisen tason varmistaakseen, että tavoite on saavutettavissa.

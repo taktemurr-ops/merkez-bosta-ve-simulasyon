@@ -1,9 +1,9 @@
-Idle i Symulacje łączy 19 spokojnych symulacji: produkcja idle w warsztacie latarni, kopalni kryształów i fabryce zabawek; łączenie dzbanów; farma według pór roku, akwarium marzeń, ogród zen i mrowisko; budowa miasteczka i chmurkowy przyjaciel Pofu; bar, kuchnia i studio stylu. Pory roku się zmieniają, tryb spokojny nie pogania, a w trybie zdjęć ozdobisz wszystko. Każda gra ma własne postępy, zadania i osiągnięcia.
+Idle i Symulacje łączy 23 spokojnych symulacji: produkcja idle w warsztacie latarni, kopalni kryształów i fabryce zabawek; łączenie dzbanów; farma według pór roku, akwarium marzeń, ogród zen i mrowisko; budowa miasteczka i chmurkowy przyjaciel Pofu; bar, kuchnia i studio stylu. Pory roku się zmieniają, tryb spokojny nie pogania, a w trybie zdjęć ozdobisz wszystko. Każda gra ma własne postępy, zadania i osiągnięcia.
 
 • Warsztaty idle: Warsztat Latarni, Pracownia Garncarska, Kopalnia Kryształów, Fabryka Zabawek, Kosmiczna Kopalnia
 • Natura i spokój: Farma Pór Roku, Akwarium Marzeń, Ogród Zen, Mrowisko, Pszczela Łąka, Tulipanowa Szklarnia, Zbuduj Zoo
-• Życie i miasteczko: Dom Pofu, Małe Miasteczko, Gospodarz Karawanseraju
-• Kuchnia i styl: Bar za Rogiem, Kuchenne Kroki, Herbaciany Ogród, Studio Stylu
+• Życie i miasteczko: Dom Pofu, Małe Miasteczko, Gospodarz Karawanseraju, Sklepik na Rogu, Życie na Wsi, Metamorfoza Domu
+• Kuchnia i styl: Bar za Rogiem, Kuchenne Kroki, Herbaciany Ogród, Studio Stylu, Niech Lśni!
 
 Najważniejsze
 • 100 000 poziomów na grę; bot rozgrywa każdy poziom, by sprawdzić, że cel jest osiągalny.

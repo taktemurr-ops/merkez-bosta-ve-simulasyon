@@ -1,9 +1,9 @@
-Idle & Simulatie bundelt 19 rustige simulaties: idle-productie in de lantaarnwerkplaats, kristalmijn en speelgoedfabriek; potten samenvoegen; een boerderij met seizoenen, een droomaquarium, een zentuin en een mierennest; een stadje bouwen en Pofu, je wolkvriendje; een eethuis, een keuken en een stijlstudio. De seizoenen wisselen, de rustige modus jaagt nooit op en in de fotomodus versier je alles. Elk spel heeft eigen voortgang, opdrachten en prestaties.
+Idle & Simulatie bundelt 23 rustige simulaties: idle-productie in de lantaarnwerkplaats, kristalmijn en speelgoedfabriek; potten samenvoegen; een boerderij met seizoenen, een droomaquarium, een zentuin en een mierennest; een stadje bouwen en Pofu, je wolkvriendje; een eethuis, een keuken en een stijlstudio. De seizoenen wisselen, de rustige modus jaagt nooit op en in de fotomodus versier je alles. Elk spel heeft eigen voortgang, opdrachten en prestaties.
 
 • Idle-werkplaatsen: Lantaarnwerkplaats, Pottenbakkerij, Kristalmijn, Speelgoedfabriek, Ruimtemijn
 • Natuur en rust: Seizoenenboerderij, Droomaquarium, Zentuin, Mierennest, Bijenweide, Tulpenkas, Bouw een Dierentuin
-• Leven en stad: Pofu’s Huis, Klein Stadje, Karavanserai-waard
-• Keuken en stijl: Buurteethuis, Keukenstappen, Theetuin, Stijlstudio
+• Leven en stad: Pofu’s Huis, Klein Stadje, Karavanserai-waard, De Buurtwinkel, Dorpsleven, Huis Opknappen
+• Keuken en stijl: Buurteethuis, Keukenstappen, Theetuin, Stijlstudio, Laat Het Glanzen!
 
 Hoogtepunten
 • 100.000 levels per spel; een bot speelt elk level om te controleren dat het doel haalbaar is.

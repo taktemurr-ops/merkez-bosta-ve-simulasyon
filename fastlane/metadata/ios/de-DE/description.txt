@@ -2,8 +2,8 @@ Idle & Simulation vereint 15 ruhige Simulationen in einer App: Idle-Produktion i
 
 • Idle-Werkstätten: Laternenwerkstatt, Töpferstube, Kristallmine, Spielzeugfabrik
 • Natur und Ruhe: Jahreszeitenhof, Traumaquarium, Zen-Garten, Ameisennest, Bienenwiese
-• Leben und Stadt: Pofus Zuhause, Kleinstadt
-• Küche und Stil: Eckimbiss, Küchenschritte, Teegarten, Stilstudio
+• Leben und Stadt: Pofus Zuhause, Kleinstadt, Tante-Emma-Laden, Dorfleben, Wohnungs-Makeover
+• Küche und Stil: Eckimbiss, Küchenschritte, Teegarten, Stilstudio, Blitzblank!
 
 Highlights
 • 100.000 Level pro Spiel; ein Bot spielt jedes Level und prüft, ob das Ziel erreichbar ist.

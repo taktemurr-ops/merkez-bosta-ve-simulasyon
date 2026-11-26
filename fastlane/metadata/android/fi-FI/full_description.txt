@@ -1,9 +1,9 @@
-Idle & Simulaatio kokoaa 19 rauhallista simulaatiota: idle-tuotantoa lyhtypajassa, kristallikaivoksessa ja lelutehtaassa; ruukkujen yhdistelyä; vuodenaikojen tila, unelma-akvaario, zen-puutarha ja muurahaispesä; kaupungin rakentamista ja pilviystävä Pofu; ruokala, keittiö ja tyylistudio. Vuodenajat vaihtuvat, rauhallinen tila ei kiirehdi ja kuvatilassa voit koristella kaiken. Jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+Idle & Simulaatio kokoaa 23 rauhallista simulaatiota: idle-tuotantoa lyhtypajassa, kristallikaivoksessa ja lelutehtaassa; ruukkujen yhdistelyä; vuodenaikojen tila, unelma-akvaario, zen-puutarha ja muurahaispesä; kaupungin rakentamista ja pilviystävä Pofu; ruokala, keittiö ja tyylistudio. Vuodenajat vaihtuvat, rauhallinen tila ei kiirehdi ja kuvatilassa voit koristella kaiken. Jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
 
 • Idle-pajat: Lyhtypaja, Savipaja, Kristallikaivos, Lelutehdas, Avaruuskaivos
 • Luonto ja rauha: Vuodenaikojen Tila, Unelma-akvaario, Zen-puutarha, Muurahaispesä, Mehiläisniitty, Tulppaanikasvihuone, Rakenna Eläintarha
-• Elämä ja kaupunki: Pofun Koti, Pikkukaupunki, Karavaaniseraijin isäntä
-• Keittiö ja tyyli: Kulmaruokala, Keittiön Vaiheet, Teepuutarha, Tyylistudio
+• Elämä ja kaupunki: Pofun Koti, Pikkukaupunki, Karavaaniseraijin isäntä, Kulmakauppa, Kyläelämää, Kodin Kunnostus
+• Keittiö ja tyyli: Kulmaruokala, Keittiön Vaiheet, Teepuutarha, Tyylistudio, Kiillota!
 
 Kohokohdat
 • 100 000 tasoa per peli; botti pelaa jokaisen tason varmistaakseen, että tavoite on saavutettavissa.

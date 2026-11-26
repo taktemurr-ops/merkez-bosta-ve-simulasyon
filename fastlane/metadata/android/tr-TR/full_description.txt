@@ -1,9 +1,9 @@
-Boşta ve Simülasyon, 19 sakin simülasyonu tek uygulamada toplar. Fener atölyesi, kristal madeni ve oyuncak fabrikasında boşta üretim; çömlek birleştirme; mevsimlere göre ekilen çiftlik, düş akvaryumu, zen bahçesi ve karınca yuvası; kasaba kurma ve bulut dostun Pofu; lokanta, mutfak ve stil atölyesi. Mevsimler döner, sakin mod acele ettirmez, fotoğraf modunda her şeyi süsleyebilirsin. Her oyunun ilerlemesi, görevleri ve başarımları ayrıdır.
+Boşta ve Simülasyon, 23 sakin simülasyonu tek uygulamada toplar. Fener atölyesi, kristal madeni ve oyuncak fabrikasında boşta üretim; çömlek birleştirme; mevsimlere göre ekilen çiftlik, düş akvaryumu, zen bahçesi ve karınca yuvası; kasaba kurma ve bulut dostun Pofu; lokanta, mutfak ve stil atölyesi. Mevsimler döner, sakin mod acele ettirmez, fotoğraf modunda her şeyi süsleyebilirsin. Her oyunun ilerlemesi, görevleri ve başarımları ayrıdır.
 
 • Boşta atölyeler: Fener Atölyesi, Çömlek Atölyesi, Kristal Madeni, Oyuncak Fabrikası, Boşta Uzay Madeni
 • Doğa ve huzur: Mevsim Çiftliği, Düş Akvaryumu, Zen Bahçesi, Karınca Yuvası, Arı Kovanı, Lale Serası, Hayvanat Bahçesi Kur
-• Yaşam ve kasaba: Pofu’nun Evi, Kasaba Kur, Kervansaray İşletmesi
-• Mutfak ve stil: Mahalle Lokantası, Mutfak Sırası, Çay Bahçesi, Stil Atölyesi
+• Yaşam ve kasaba: Pofu’nun Evi, Kasaba Kur, Kervansaray İşletmesi, Mahalle Bakkalı, Kasaba Hayatı, Ev Yenileme
+• Mutfak ve stil: Mahalle Lokantası, Mutfak Sırası, Çay Bahçesi, Stil Atölyesi, Parlat!
 
 Öne çıkanlar
 • Oyun başına 100.000 bölüm; her bölüm bir botla oynanır ve hedefinin ulaşılabilir olduğu denetlenir.

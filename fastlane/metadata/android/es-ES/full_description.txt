@@ -1,9 +1,9 @@
-Idle y Simulación reúne 19 simulaciones tranquilas en una app: producción idle en el taller de faroles, la mina de cristal y la fábrica de juguetes; fusión de vasijas; una granja según las estaciones, un acuario soñado, un jardín zen y un hormiguero; construir un pueblo y cuidar de Pofu, tu amigo nube; una fonda, una cocina y un estudio de estilo. Las estaciones cambian, el modo tranquilo nunca te apura y el modo foto te deja decorarlo todo. Cada juego guarda su progreso, misiones y logros.
+Idle y Simulación reúne 23 simulaciones tranquilas en una app: producción idle en el taller de faroles, la mina de cristal y la fábrica de juguetes; fusión de vasijas; una granja según las estaciones, un acuario soñado, un jardín zen y un hormiguero; construir un pueblo y cuidar de Pofu, tu amigo nube; una fonda, una cocina y un estudio de estilo. Las estaciones cambian, el modo tranquilo nunca te apura y el modo foto te deja decorarlo todo. Cada juego guarda su progreso, misiones y logros.
 
 • Talleres idle: Taller de Faroles, Taller de Cerámica, Mina de Cristal, Fábrica de Juguetes, Mina Espacial
 • Naturaleza y calma: Granja de Temporadas, Acuario Soñado, Jardín Zen, Hormiguero, Prado de Colmenas, Invernadero de Tulipanes, Construye un Zoo
-• Vida y pueblo: La Casa de Pofu, Pueblito, Posada de Caravanas
-• Cocina y estilo: Fonda del Barrio, Pasos de Cocina, Jardín de Té, Estudio de Estilo
+• Vida y pueblo: La Casa de Pofu, Pueblito, Posada de Caravanas, La Bodega del Barrio, Vida en el Pueblo, Reforma tu Casa
+• Cocina y estilo: Fonda del Barrio, Pasos de Cocina, Jardín de Té, Estudio de Estilo, ¡Que Brille!
 
 Lo más destacado
 • 100.000 niveles por juego; un bot juega cada nivel para comprobar que la meta es alcanzable.

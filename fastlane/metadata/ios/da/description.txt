@@ -2,8 +2,8 @@ Idle & Simulation samler 15 rolige simulationer: idle-produktion i lanterneværk
 
 • Idle-værksteder: Lanterneværkstedet, Pottemagerværkstedet, Krystalminen, Legetøjsfabrikken
 • Natur og ro: Årstidsgården, Drømmeakvariet, Zenhaven, Myretuen, Bienge
-• Liv og by: Pofus Hjem, Den Lille By
-• Køkken og stil: Hjørnespisestedet, Køkkentrin, Tehaven, Stilstudiet
+• Liv og by: Pofus Hjem, Den Lille By, Købmanden på Hjørnet, Livet i Landsbyen, Boligmakeover
+• Køkken og stil: Hjørnespisestedet, Køkkentrin, Tehaven, Stilstudiet, Få Det til at Skinne!
 
 Højdepunkter
 • 100.000 baner pr. spil; en bot spiller hver bane for at tjekke, at målet kan nås.

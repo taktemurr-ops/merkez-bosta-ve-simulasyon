@@ -2,8 +2,8 @@ Idle és Szimuláció 15 nyugodt szimulációt gyűjt egy appba: idle termelés 
 
 • Idle műhelyek: Lámpásműhely, Fazekasműhely, Kristálybánya, Játékgyár
 • Természet és nyugalom: Évszakok Tanyája, Álomakvárium, Zen Kert, Hangyaboly, Méhes Rét
-• Élet és város: Pofu Otthona, Kisváros
-• Konyha és stílus: Sarki Étkezde, Konyhai Lépések, Teakert, Stílusműhely
+• Élet és város: Pofu Otthona, Kisváros, A Sarki Bolt, Falusi Élet, Lakásfelújítás
+• Konyha és stílus: Sarki Étkezde, Konyhai Lépések, Teakert, Stílusműhely, Ragyogjon!
 
 Kiemelt
 • Játékonként 100 000 pálya; egy bot mindet végigjátssza, hogy a cél elérhető-e.

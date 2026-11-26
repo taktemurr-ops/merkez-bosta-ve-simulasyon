@@ -1,9 +1,9 @@
-Idle e Simulazione riunisce 19 simulazioni rilassanti: produzione idle nella bottega delle lanterne, nella miniera di cristallo e nella fabbrica di giocattoli; vasi da unire; una fattoria che segue le stagioni, un acquario dei sogni, un giardino zen e un formicaio; un paese da costruire e Pofu, l’amico nuvola; una trattoria, una cucina e uno studio di stile. Le stagioni cambiano, la modalità calma non mette fretta e la modalità foto permette di decorare tutto. Ogni gioco ha i suoi progressi, missioni e obiettivi.
+Idle e Simulazione riunisce 23 simulazioni rilassanti: produzione idle nella bottega delle lanterne, nella miniera di cristallo e nella fabbrica di giocattoli; vasi da unire; una fattoria che segue le stagioni, un acquario dei sogni, un giardino zen e un formicaio; un paese da costruire e Pofu, l’amico nuvola; una trattoria, una cucina e uno studio di stile. Le stagioni cambiano, la modalità calma non mette fretta e la modalità foto permette di decorare tutto. Ogni gioco ha i suoi progressi, missioni e obiettivi.
 
 • Botteghe idle: Bottega delle Lanterne, Bottega del Vasaio, Miniera di Cristallo, Fabbrica di Giocattoli, Miniera Spaziale
 • Natura e calma: Fattoria delle Stagioni, Acquario dei Sogni, Giardino Zen, Formicaio, Prato delle Api, La Serra dei Tulipani, Costruisci uno Zoo
-• Vita e paese: La Casa di Pofu, Piccolo Paese, L’Oste del Caravanserraglio
-• Cucina e stile: Trattoria di Quartiere, Passi in Cucina, Giardino del Tè, Studio di Stile
+• Vita e paese: La Casa di Pofu, Piccolo Paese, L’Oste del Caravanserraglio, La Bottega di Quartiere, Vita di Paese, Rinnova la Casa
+• Cucina e stile: Trattoria di Quartiere, Passi in Cucina, Giardino del Tè, Studio di Stile, Fallo Brillare!
 
 In evidenza
 • 100.000 livelli per gioco; un bot gioca ogni livello per verificare che l’obiettivo sia raggiungibile.

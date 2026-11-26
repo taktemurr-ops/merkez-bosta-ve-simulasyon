@@ -2,8 +2,8 @@ Idle & Simulasi menghimpunkan 15 simulasi santai dalam satu aplikasi: pengeluara
 
 • Bengkel idle: Bengkel Tanglung, Studio Tembikar, Lombong Kristal, Kilang Mainan
 • Alam dan ketenangan: Ladang Musim, Akuarium Impian, Taman Zen, Sarang Semut, Padang Lebah
-• Kehidupan dan pekan: Rumah Pofu, Pekan Kecil
-• Dapur dan gaya: Kedai Simpang, Langkah Dapur, Taman Teh, Studio Gaya
+• Kehidupan dan pekan: Rumah Pofu, Pekan Kecil, Kedai Runcit Kejiranan, Kehidupan Kampung, Ubah Suai Rumah
+• Dapur dan gaya: Kedai Simpang, Langkah Dapur, Taman Teh, Studio Gaya, Kilatkan!
 
 Sorotan
 • 100,000 tahap setiap permainan; bot memainkan setiap tahap untuk memastikan sasaran boleh dicapai.

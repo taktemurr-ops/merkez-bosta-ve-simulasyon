@@ -2,8 +2,8 @@ Idle & Simulation brings 15 calm simulations into one app. Idle production in th
 
 • Idle workshops: Lantern Workshop, Pottery Studio, Crystal Mine, Toy Factory
 • Nature and calm: Seasons Farm, Dream Aquarium, Zen Garden, Ant Nest, Beehive Meadow
-• Life and town: Pofu’s Home, Tiny Town
-• Kitchen and style: Corner Diner, Kitchen Steps, Tea Garden, Style Studio
+• Life and town: Pofu’s Home, Tiny Town, Corner Shop, Village Life, Home Makeover
+• Kitchen and style: Corner Diner, Kitchen Steps, Tea Garden, Style Studio, Make It Shine!
 
 Highlights
 • 100,000 levels per game; a bot plays every level to check its goal can be reached.

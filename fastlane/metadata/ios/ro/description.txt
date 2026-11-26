@@ -2,8 +2,8 @@ Idle și Simulare reunește 15 simulări liniștite: producție idle în atelier
 
 • Ateliere idle: Atelierul de Felinare, Atelierul de Olărit, Mina de Cristal, Fabrica de Jucării
 • Natură și liniște: Ferma Anotimpurilor, Acvariul de Vis, Grădina Zen, Mușuroiul, Pajiștea cu Stupi
-• Viață și oraș: Casa lui Pofu, Orășelul
-• Bucătărie și stil: Bistroul din Colț, Pași în Bucătărie, Grădina de Ceai, Atelier de Stil
+• Viață și oraș: Casa lui Pofu, Orășelul, Băcănia din Cartier, Viața la Sat, Renovarea Casei
+• Bucătărie și stil: Bistroul din Colț, Pași în Bucătărie, Grădina de Ceai, Atelier de Stil, Să Strălucească!
 
 Puncte forte
 • 100.000 de niveluri pe joc; un bot joacă fiecare nivel pentru a verifica ținta.

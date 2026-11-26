@@ -1,9 +1,9 @@
-Idle & Simulering samler 19 rolige simuleringer: idle-produksjon i lykteverkstedet, krystallgruven og leketøysfabrikken; krukker som slås sammen; en gård etter årstidene, et drømmeakvarium, en zenhage og en maurtue; en by å bygge og skyvennen Pofu; et spisested, et kjøkken og et stilstudio. Årstidene skifter, rolig modus stresser aldri, og i fotomodus pynter du alt. Hvert spill har egen fremgang, oppdrag og prestasjoner.
+Idle & Simulering samler 23 rolige simuleringer: idle-produksjon i lykteverkstedet, krystallgruven og leketøysfabrikken; krukker som slås sammen; en gård etter årstidene, et drømmeakvarium, en zenhage og en maurtue; en by å bygge og skyvennen Pofu; et spisested, et kjøkken og et stilstudio. Årstidene skifter, rolig modus stresser aldri, og i fotomodus pynter du alt. Hvert spill har egen fremgang, oppdrag og prestasjoner.
 
 • Idle-verksteder: Lykteverkstedet, Keramikkverkstedet, Krystallgruven, Leketøysfabrikken, Romgruven
 • Natur og ro: Årstidsgården, Drømmeakvariet, Zenhagen, Maurtua, Bieenga, Tulipandrivhuset, Bygg en Dyrepark
-• Liv og by: Pofus Hjem, Den Lille Byen, Karavanserai-verten
-• Kjøkken og stil: Hjørnekafeen, Kjøkkensteg, Tehagen, Stilstudioet
+• Liv og by: Pofus Hjem, Den Lille Byen, Karavanserai-verten, Nærbutikken, Bygdeliv, Boligoppussing
+• Kjøkken og stil: Hjørnekafeen, Kjøkkensteg, Tehagen, Stilstudioet, Få Det til å Skinne!
 
 Høydepunkter
 • 100 000 brett per spill; en bot spiller hvert brett for å sjekke at målet kan nås.

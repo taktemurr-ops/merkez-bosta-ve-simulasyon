@@ -2,8 +2,8 @@ Idle i Symulacje łączy 15 spokojnych symulacji: produkcja idle w warsztacie la
 
 • Warsztaty idle: Warsztat Latarni, Pracownia Garncarska, Kopalnia Kryształów, Fabryka Zabawek
 • Natura i spokój: Farma Pór Roku, Akwarium Marzeń, Ogród Zen, Mrowisko, Pszczela Łąka
-• Życie i miasteczko: Dom Pofu, Małe Miasteczko
-• Kuchnia i styl: Bar za Rogiem, Kuchenne Kroki, Herbaciany Ogród, Studio Stylu
+• Życie i miasteczko: Dom Pofu, Małe Miasteczko, Sklepik na Rogu, Życie na Wsi, Metamorfoza Domu
+• Kuchnia i styl: Bar za Rogiem, Kuchenne Kroki, Herbaciany Ogród, Studio Stylu, Niech Lśni!
 
 Najważniejsze
 • 100 000 poziomów na grę; bot rozgrywa każdy poziom, by sprawdzić, że cel jest osiągalny.

@@ -2,8 +2,8 @@ Idle e Simulazione riunisce 15 simulazioni rilassanti: produzione idle nella bot
 
 • Botteghe idle: Bottega delle Lanterne, Bottega del Vasaio, Miniera di Cristallo, Fabbrica di Giocattoli
 • Natura e calma: Fattoria delle Stagioni, Acquario dei Sogni, Giardino Zen, Formicaio, Prato delle Api
-• Vita e paese: La Casa di Pofu, Piccolo Paese
-• Cucina e stile: Trattoria di Quartiere, Passi in Cucina, Giardino del Tè, Studio di Stile
+• Vita e paese: La Casa di Pofu, Piccolo Paese, La Bottega di Quartiere, Vita di Paese, Rinnova la Casa
+• Cucina e stile: Trattoria di Quartiere, Passi in Cucina, Giardino del Tè, Studio di Stile, Fallo Brillare!
 
 In evidenza
 • 100.000 livelli per gioco; un bot gioca ogni livello per verificare che l’obiettivo sia raggiungibile.

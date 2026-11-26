@@ -2,8 +2,8 @@ Boşta ve Simülasyon, 15 sakin simülasyonu tek uygulamada toplar. Fener atöly
 
 • Boşta atölyeler: Fener Atölyesi, Çömlek Atölyesi, Kristal Madeni, Oyuncak Fabrikası
 • Doğa ve huzur: Mevsim Çiftliği, Düş Akvaryumu, Zen Bahçesi, Karınca Yuvası, Arı Kovanı
-• Yaşam ve kasaba: Pofu’nun Evi, Kasaba Kur
-• Mutfak ve stil: Mahalle Lokantası, Mutfak Sırası, Çay Bahçesi, Stil Atölyesi
+• Yaşam ve kasaba: Pofu’nun Evi, Kasaba Kur, Mahalle Bakkalı, Kasaba Hayatı, Ev Yenileme
+• Mutfak ve stil: Mahalle Lokantası, Mutfak Sırası, Çay Bahçesi, Stil Atölyesi, Parlat!
 
 Öne çıkanlar
 • Oyun başına 100.000 bölüm; her bölüm bir botla oynanır ve hedefinin ulaşılabilir olduğu denetlenir.

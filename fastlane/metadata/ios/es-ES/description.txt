@@ -2,8 +2,8 @@ Idle y Simulación reúne 15 simulaciones tranquilas en una app: producción idl
 
 • Talleres idle: Taller de Faroles, Taller de Cerámica, Mina de Cristal, Fábrica de Juguetes
 • Naturaleza y calma: Granja de Temporadas, Acuario Soñado, Jardín Zen, Hormiguero, Prado de Colmenas
-• Vida y pueblo: La Casa de Pofu, Pueblito
-• Cocina y estilo: Fonda del Barrio, Pasos de Cocina, Jardín de Té, Estudio de Estilo
+• Vida y pueblo: La Casa de Pofu, Pueblito, La Bodega del Barrio, Vida en el Pueblo, Reforma tu Casa
+• Cocina y estilo: Fonda del Barrio, Pasos de Cocina, Jardín de Té, Estudio de Estilo, ¡Que Brille!
 
 Lo más destacado
 • 100.000 niveles por juego; un bot juega cada nivel para comprobar que la meta es alcanzable.

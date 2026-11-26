@@ -2,8 +2,8 @@ Idle & Simulering samler 15 rolige simuleringer: idle-produksjon i lykteverksted
 
 • Idle-verksteder: Lykteverkstedet, Keramikkverkstedet, Krystallgruven, Leketøysfabrikken
 • Natur og ro: Årstidsgården, Drømmeakvariet, Zenhagen, Maurtua, Bieenga
-• Liv og by: Pofus Hjem, Den Lille Byen
-• Kjøkken og stil: Hjørnekafeen, Kjøkkensteg, Tehagen, Stilstudioet
+• Liv og by: Pofus Hjem, Den Lille Byen, Nærbutikken, Bygdeliv, Boligoppussing
+• Kjøkken og stil: Hjørnekafeen, Kjøkkensteg, Tehagen, Stilstudioet, Få Det til å Skinne!
 
 Høydepunkter
 • 100 000 brett per spill; en bot spiller hvert brett for å sjekke at målet kan nås.

@@ -2,8 +2,8 @@ Idle et Simulation réunit 15 simulations paisibles : production idle dans l’a
 
 • Ateliers idle: Atelier des Lanternes, Atelier de Poterie, Mine de Cristal, Usine de Jouets
 • Nature et sérénité: Ferme des Saisons, Aquarium de Rêve, Jardin Zen, Fourmilière, Le Pré aux Ruches
-• Vie et village: La Maison de Pofu, Petit Village
-• Cuisine et style: Bistrot du Coin, Pas en Cuisine, Jardin de Thé, Atelier de Style
+• Vie et village: La Maison de Pofu, Petit Village, L’Épicerie du Coin, La Vie au Village, Relooking Maison
+• Cuisine et style: Bistrot du Coin, Pas en Cuisine, Jardin de Thé, Atelier de Style, Fais Briller !
 
 Points forts
 • 100 000 niveaux par jeu ; un robot joue chaque niveau pour vérifier que l’objectif est atteignable.

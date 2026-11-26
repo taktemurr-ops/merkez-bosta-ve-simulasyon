@@ -2,8 +2,8 @@ Idle & Simulatie bundelt 15 rustige simulaties: idle-productie in de lantaarnwer
 
 • Idle-werkplaatsen: Lantaarnwerkplaats, Pottenbakkerij, Kristalmijn, Speelgoedfabriek
 • Natuur en rust: Seizoenenboerderij, Droomaquarium, Zentuin, Mierennest, Bijenweide
-• Leven en stad: Pofu’s Huis, Klein Stadje
-• Keuken en stijl: Buurteethuis, Keukenstappen, Theetuin, Stijlstudio
+• Leven en stad: Pofu’s Huis, Klein Stadje, De Buurtwinkel, Dorpsleven, Huis Opknappen
+• Keuken en stijl: Buurteethuis, Keukenstappen, Theetuin, Stijlstudio, Laat Het Glanzen!
 
 Hoogtepunten
 • 100.000 levels per spel; een bot speelt elk level om te controleren dat het doel haalbaar is.

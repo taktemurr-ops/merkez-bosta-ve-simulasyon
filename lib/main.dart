@@ -9,11 +9,15 @@ import 'package:oyun_bosta_tiklayici/oyun_bosta_tiklayici.dart';
 import 'package:oyun_bosta_uzay/oyun_bosta_uzay.dart';
 import 'package:oyun_cay_bahcesi/oyun_cay_bahcesi.dart';
 import 'package:oyun_ciftlik/oyun_ciftlik.dart';
+import 'package:oyun_ev_yenileme/oyun_ev_yenileme.dart';
 import 'package:oyun_giydirme/oyun_giydirme.dart';
 import 'package:oyun_hayvanat_bahcesi/oyun_hayvanat_bahcesi.dart';
 import 'package:oyun_karinca_kolonisi/oyun_karinca_kolonisi.dart';
+import 'package:oyun_kasaba_hayati/oyun_kasaba_hayati.dart';
 import 'package:oyun_kervansaray_isletmesi/oyun_kervansaray_isletmesi.dart';
 import 'package:oyun_lale_serasi/oyun_lale_serasi.dart';
+import 'package:oyun_mahalle_bakkali/oyun_mahalle_bakkali.dart';
+import 'package:oyun_parlat/oyun_parlat.dart';
 import 'package:oyun_restoran_isletme/oyun_restoran_isletme.dart';
 import 'package:oyun_sanal_evcil_hayvan/oyun_sanal_evcil_hayvan.dart';
 import 'package:oyun_yemek_yapma/oyun_yemek_yapma.dart';
@@ -119,6 +123,10 @@ final hubConfig = HubConfig(
     kervansarayConfig,
     bostaUzayConfig,
     hayvanatBahcesiConfig,
+    mahalleBakkaliConfig,
+    kasabaHayatiConfig,
+    evYenilemeConfig,
+    parlatConfig,
   ],
   starters: ['oyun-bosta-tiklayici', 'oyun-ciftlik', 'oyun-cay-bahcesi'],
   covers: const {
@@ -141,6 +149,10 @@ final hubConfig = HubConfig(
     'oyun-sanal-evcil-hayvan': GameCover('simpet'),
     'oyun-yemek-yapma': GameCover('simcook'),
     'oyun-zen-bahcesi-bonsai': GameCover('simzen'),
+    'oyun-mahalle-bakkali': GameCover('ek4grocer'),
+    'oyun-kasaba-hayati': GameCover('ek4village'),
+    'oyun-ev-yenileme': GameCover('ek4reno'),
+    'oyun-parlat': GameCover('ek4shine'),
   },
   defaultCover: const GameCover('simfarm'),
   sections: [
@@ -254,7 +266,7 @@ final hubConfig = HubConfig(
           'Cuộc sống và thị trấn',
           'Buhay at bayan',
         ],
-        ids: ['oyun-sanal-evcil-hayvan', 'oyun-basit-sehir-kurma', 'oyun-kervansaray-isletmesi']),
+        ids: ['oyun-sanal-evcil-hayvan', 'oyun-basit-sehir-kurma', 'oyun-kervansaray-isletmesi', 'oyun-mahalle-bakkali', 'oyun-kasaba-hayati', 'oyun-ev-yenileme']),
     HubSection(
         title: [
           'Mutfak ve stil',
@@ -291,7 +303,7 @@ final hubConfig = HubConfig(
           'Bếp và phong cách',
           'Kusina at estilo',
         ],
-        ids: ['oyun-restoran-isletme', 'oyun-yemek-yapma', 'oyun-cay-bahcesi', 'oyun-giydirme']),
+        ids: ['oyun-restoran-isletme', 'oyun-yemek-yapma', 'oyun-cay-bahcesi', 'oyun-giydirme', 'oyun-parlat']),
   ],
 );
 
