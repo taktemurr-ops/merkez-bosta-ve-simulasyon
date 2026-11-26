@@ -121,6 +121,28 @@ final hubConfig = HubConfig(
     hayvanatBahcesiConfig,
   ],
   starters: ['oyun-bosta-tiklayici', 'oyun-ciftlik', 'oyun-cay-bahcesi'],
+  covers: const {
+    'oyun-akvaryum-dekorasyonu': GameCover('simaqua'),
+    'oyun-ari-kovani': GameCover('simbee'),
+    'oyun-basit-sehir-kurma': GameCover('simtown'),
+    'oyun-birlestir-gelistir': GameCover('simpots'),
+    'oyun-bosta-fabrika': GameCover('simfactory'),
+    'oyun-bosta-madencilik': GameCover('simmine'),
+    'oyun-bosta-tiklayici': GameCover('simlantern'),
+    'oyun-bosta-uzay': GameCover('simspace'),
+    'oyun-cay-bahcesi': GameCover('simtea'),
+    'oyun-ciftlik': GameCover('simfarm'),
+    'oyun-giydirme': GameCover('simstyle'),
+    'oyun-hayvanat-bahcesi': GameCover('simzoo'),
+    'oyun-karinca-kolonisi': GameCover('simants'),
+    'oyun-kervansaray-isletmesi': GameCover('simcaravan'),
+    'oyun-lale-serasi': GameCover('simtulip'),
+    'oyun-restoran-isletme': GameCover('simdiner'),
+    'oyun-sanal-evcil-hayvan': GameCover('simpet'),
+    'oyun-yemek-yapma': GameCover('simcook'),
+    'oyun-zen-bahcesi-bonsai': GameCover('simzen'),
+  },
+  defaultCover: const GameCover('simfarm'),
   sections: [
     HubSection(
         title: [
