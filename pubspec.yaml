@@ -13,84 +13,84 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_bosta_tiklayici:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-tiklayici
-      ref: fd91b03f9d8134b151ac39698758fe804c35d1a0
+      ref: 4e6f1144eee77adc32b9ce4fae54069e2745829b
   oyun_birlestir_gelistir:
     git:
       url: https://github.com/taktemurr-ops/oyun-birlestir-gelistir
-      ref: d31c2a2a32252d044c80e37b1d82983f170b707b
+      ref: 7be675be8cd0233f655ef729ce7f0b1133a92974
   oyun_bosta_madencilik:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-madencilik
-      ref: 83d97964cbe77ea58b70697085369af8772d24a7
+      ref: 1e919e19f2897dd039a6384a668cecb3bfbb9271
   oyun_bosta_fabrika:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-fabrika
-      ref: a0bf97307dc1bd80a8fbbf66c1b4c1d32314bb39
+      ref: 387a7edc46ffa8231e27000bb6599fab62430d34
   oyun_ciftlik:
     git:
       url: https://github.com/taktemurr-ops/oyun-ciftlik
-      ref: b777b08c89549697843215a972a7a328b77f0fe5
+      ref: 607d371445f56ada9016a6bce584d086e75abd1b
   oyun_akvaryum_dekorasyonu:
     git:
       url: https://github.com/taktemurr-ops/oyun-akvaryum-dekorasyonu
-      ref: 647fce2d410c4462c0af3e69c72ad5b14b538c92
+      ref: ce587fafc72f1b2871600ffa431a7ee10d2dbe46
   oyun_zen_bahcesi_bonsai:
     git:
       url: https://github.com/taktemurr-ops/oyun-zen-bahcesi-bonsai
-      ref: 1b7d0eb70aaaa0251a993b9559ec56f18367917e
+      ref: 759c35934f8a5dff6a2cc8770bec0709635b82cf
   oyun_karinca_kolonisi:
     git:
       url: https://github.com/taktemurr-ops/oyun-karinca-kolonisi
-      ref: 9e48ea29c19619c07eb7aa2a51d56af092913d0a
+      ref: 916bd17d05a28dc8344942dbdec1e8d20086ef42
   oyun_ari_kovani:
     git:
       url: https://github.com/taktemurr-ops/oyun-ari-kovani
-      ref: 77e959527bc8eeffb037b72f014c689e8c87a433
+      ref: 8190ecef7cbada703ed7e7051caa354ac2de78b7
   oyun_sanal_evcil_hayvan:
     git:
       url: https://github.com/taktemurr-ops/oyun-sanal-evcil-hayvan
-      ref: a641cb44d3967589c4bc9917896734bf60fb3cad
+      ref: 3e07290d4a3d61b2a30ccde180ecc25edd503375
   oyun_basit_sehir_kurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-basit-sehir-kurma
-      ref: 5e0ebee71ac0cef8f5ea6b30327fa20b773671a1
+      ref: 3002bd8e22684adf600a5f6e2792bb579e968f8a
   oyun_restoran_isletme:
     git:
       url: https://github.com/taktemurr-ops/oyun-restoran-isletme
-      ref: 1addef639da8ac0efe85597edf408ee20a889cd3
+      ref: 4bd1e9048a3be1d4fc92d07b2a479a24f211eb9a
   oyun_yemek_yapma:
     git:
       url: https://github.com/taktemurr-ops/oyun-yemek-yapma
-      ref: 14e88ad1ee1097e231c428c42343d246b36ad217
+      ref: ff42d2558dd8ca4febaedb1e0e37c2b68bdc1824
   oyun_cay_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-cay-bahcesi
-      ref: 7cbb3bd66615085487fba9cfea62b7156c7ab0a9
+      ref: a10769edbd169cc1e6da3bf612a2be64655daf88
   oyun_giydirme:
     git:
       url: https://github.com/taktemurr-ops/oyun-giydirme
-      ref: cde63d7d546db41a7970c5b9d9f0fe1c0443f19c
+      ref: 4ffda57e5c1e0b55edd30db4973f42843b429469
   oyun_lale_serasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-lale-serasi
-      ref: 0f3451503f07e38d2fd9da1ade113e8e7fdd719e
+      ref: 70b6cc5e337371643e06cbad42596956c163c424
   oyun_kervansaray_isletmesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kervansaray-isletmesi
-      ref: a829b41e3152490691b6115a323423d0848fe02f
+      ref: 53488e118315e269a1f760c3ae99683964f6e3a9
   oyun_bosta_uzay:
     git:
       url: https://github.com/taktemurr-ops/oyun-bosta-uzay
-      ref: d93804fe009ae062fbf39c0922ab70304b04ca28
+      ref: 9c79768ba2430e62c84a52c400900dd02ec95674
   oyun_hayvanat_bahcesi:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayvanat-bahcesi
-      ref: 1ef9df71f32d60347a9be2ee8ff4b473bd6b42bd
+      ref: 7a842698721c21889cb09360171a846f72366e96
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -104,11 +104,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   simulasyon_motoru:
     git:
       url: https://github.com/taktemurr-ops/simulasyon-motoru
-      ref: 89fc661fd5baea06c18c244dad80d5a242e0c2b5
+      ref: da6e234723d4ccd45e252573630734b8cb48c6cf
 
 dev_dependencies:
   flutter_test:
